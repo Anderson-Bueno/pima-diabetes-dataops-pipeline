@@ -1,0 +1,21 @@
+# Core data pipeline
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Visualization / evaluation artifacts
+matplotlib
+seaborn
+
+# API layer
+fastapi
+uvicorn
+
+# MLOps / experiment tracking
+mlflow
+
+# Utilities
+python-dotenv
