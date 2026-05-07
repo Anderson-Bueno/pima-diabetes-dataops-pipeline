@@ -109,3 +109,23 @@ SQLite staging table
 SQL business rules
         ↓
 data/processed/resultado.csv
+
+Camada evolutiva — Machine Learning / MLOps Foundation
+        ↓
+data/processed/resultado.csv
+        ↓
+data validation
+        ↓
+preprocessing
+        ↓
+train/test split
+        ↓
+model training
+        ↓
+model evaluation
+        ↓
+models/
+        ↓
+artifacts/
+        ↓
+API / MLflow / Docker roadmap
