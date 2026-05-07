@@ -109,7 +109,7 @@ SQLite staging table
 SQL business rules
         ↓
 data/processed/resultado.csv
-
+       ↓
 Camada evolutiva — Machine Learning / MLOps Foundation
         ↓
 data/processed/resultado.csv
